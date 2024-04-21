@@ -1,0 +1,15 @@
+Post-Processed Data File Column Name,Meaning
+title,paper title
+authors,paper authors
+year,published year
+venue,paper venue
+id,paper ID
+references,citing papers' ID
+abstract,paper abstract
+ISCITED_COUNT,(Was called citation_count in the original CSV) Number of times this paper has been cited by other papers
+AUTHOR_COUNT,Number of authors
+REF_COUNT,Number of paper in the reference list
+MAIN_AUTHOR,First author in the authors list
+SECONDARY_AUTHORS,Authors who are not listed as the first author of the paper
+TITLE_TOKEN,Tokenized title
+ABSTRACT_TOKEN,Tokenized abstract
